@@ -1,1 +1,2 @@
 # bioresourceKG_schema
+The RIKEN Bioresource RDF knowledge graph (KG) was developed based on [Biological Resource Schema Ontology (BRSO)](https://github.com/dbcls/brso). For example, the Bioresource KG contains labels (e.g., iso-D), identifiers (e.g., psi00001), organisms (e.g., NCBITaxon_3702 and Arabidopsis thaliana), related genes (e.g., ncbigene:843873 and Atig65620), the related phenotypes (e.g., Dwarf). The RDF data is accessible and downloadable from the [BioResource MetaDB SPARQL endpoint](https://knowledge.brc.riken.jp/sparql).
